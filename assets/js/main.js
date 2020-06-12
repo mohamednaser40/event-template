@@ -78,7 +78,7 @@
 								$form.reset();
 								$submit.disabled = false;
 								$message._show('success', 'Thank you!');
-						}, 750);
+						}, 750); 
 				});
 		})();
 })();
